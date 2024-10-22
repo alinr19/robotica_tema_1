@@ -34,3 +34,7 @@ Componentele folosite:
 9x Rezistoare (7x 220ohm, 2x 1K)
 Breadboard
 Linii de legatura
+
+Montaj Final :
+
+
