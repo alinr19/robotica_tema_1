@@ -1,4 +1,4 @@
-# robotica_tema_1
+# Robotica Tema 1
 
 
 1. Detalii Tehnice:
