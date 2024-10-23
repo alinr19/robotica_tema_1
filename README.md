@@ -36,5 +36,6 @@ Breadboard
 Linii de legatura
 
 Montaj Final :
+https://www.youtube.com/shorts/VLetyt-P0Ms
 
 
